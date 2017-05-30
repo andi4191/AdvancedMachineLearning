@@ -1,0 +1,12 @@
+I, null
+FT
+MB, cc2
+MQ
+IG
+LI, [Comments & postLength & pageTalkingAbout & pageCategory]
+M, postDay = 5
+M, Comments = 1
+M, postLength = 25
+M, pageCategory = 24
+CP, pageCategory = 4, evidence -> [postShareCt = 116]
+PF asf
